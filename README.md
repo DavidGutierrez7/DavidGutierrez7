@@ -4,6 +4,14 @@
 
   ### Ingeniero Informático | Especialidad en Computación e IA
 
+  <div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[PON_AQUI_TU_LINKEDIN])]([PON_AQUI_TU_LINKEDIN])
+
+[![Email Badge](https://img.shields.io/badge/-gutierrezmarjalizo@gmail.com-c14438?style=flat-square)](mailto:gutierrezmarjalizo@gmail.com)
+ 
+</div>
+
 
 </div>
 

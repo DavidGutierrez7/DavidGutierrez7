@@ -6,7 +6,8 @@
 
   <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[PON_AQUI_TU_LINKEDIN])]([PON_AQUI_TU_LINKEDIN])
+[![David Gutiérrez Marjalizo](https://img.shields.io/badge/-David%20Guti%C3%A9rrez%20Marjalizo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-guti%C3%A9rrez-marjalizo-29790b390/)
+
 
 [![Email Badge](https://img.shields.io/badge/-gutierrezmarjalizo@gmail.com-c14438?style=flat-square)](mailto:gutierrezmarjalizo@gmail.com)
  
